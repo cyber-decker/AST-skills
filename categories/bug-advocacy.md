@@ -4,5 +4,5 @@ Bug advocacy is the process of investigating the breadth and severity of a bug a
 report communicating such.  
   
 ## What skills are in this category?  
-* Defect Investigation
-* Persuasion
+* [Defect Investigation] (../skills/defect-investigation.md)
+* [Persuasion] (../skills/persuasion.md)
