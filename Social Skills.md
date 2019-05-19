@@ -21,17 +21,17 @@ The skills can be broken into four broad categories. Within each category there 
 *	Anger management
 *	Conflict management
 
-# Our Working Definition:
+## Our Working Definition:
 
 Social Skills : Social skills are the skills we use to communicate and interact with each other, both verbally and non-verbally, through gestures, body language and our personal appearance.
 
-# A context where I used this skill:
+## A context where I used this skill:
 
 I used this when I was working within an organization to identify and implement improvements. I needed to communicate with people in such a way that I could get my ideas across and receive relevant information to determine what things needing to change and how to change them. I ensured that people were able to hear and understand me and they were comfortable enough to provide information I needed.
 
-# How I'd recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 Become an observer of human behavior. There are social norms in every group and personal and cultural beliefs and biases that must be understood well enough for us to act in ways compatible with the individuals and groups.
 
-# Additional Resources: 
+## Additional Resources: 
 Baibak, P; Hare, R. D Snakes in Suits: When Psychopaths Go to Work (2007)
