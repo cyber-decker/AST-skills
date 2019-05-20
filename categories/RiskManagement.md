@@ -8,10 +8,10 @@ in this document I will guide you thru the principles of Risk Management and giv
 
 The principles of Risk Management originates from the groundbreaking article ["Software Risk Management: Principles and Practices"](https://people.eecs.ku.edu/~saiedian/Teaching/Sp08/816/Papers/Background-Papers/sw-risk-mgmt.pdf) written by Barry Boehm. He classified Risk Management in the following categories and sub-categories.
 
-* [Risk Assessment](../skills/Risk Assessment)
-  * Risk Identification
-  * Risk Analyses
-  * Risk Prioritization
+* [Risk Assessment](../skills/RiskAssessment.md)
+  * [Risk Identification](../skills/RiskIdentification.md)
+  * [Risk Analyses](../skills/RiskAnalyses.md)
+  * [Risk Prioritization](../skills/RiskPrioritization.md)
 * Risk Control
   * Risk Planning
   * Risk Resolution
@@ -34,7 +34,7 @@ For project management:
 
 For the test designer, the essence of risk-based testing is:
 
-* Imagine how the product can fail => Risk Assessment
+* Imagine how the product can fail => [Risk Assessment](../skills/RiskAssessment.md)
 * Design tests to expose these (potential) failures => Risk Control
 
 Risk-based testing starts from an idea of how the program could fail. Then design tests that try to expose problems of that type.
@@ -45,7 +45,7 @@ Two part of this sentence are of high importance
 * 'An exhaustive risk list'
 * 'A “complete” set of risk-based tests'
 
-Risk list is a product of the Risk Assessment. A tester, especially the risk based tester, must have skills to come up with such a list. These skills are how to identify the risk, where to find them, to recognize them Risk Identification. Next is to do a proper analyzes on the risk so he can determine its priorities in relation to the other risks Risk Analyses and Risk Prioritization
+Risk list is a product of the [Risk Assessment](../skills/RiskAssessment.md). A tester, especially the risk based tester, must have skills to come up with such a list. These skills are how to identify the risk, where to find them, to recognize them [Risk Identification](../skills/RiskIdentification.md). Next is to do a proper analyzes on the risk so he can determine its priorities in relation to the other risks [Risk Analyses](../skills/RiskAnalyses.md) and [Risk Prioritization](../skills/RiskPrioritization.md)
 
 Risk based tests are the product of Risk Control. As a tester you must have the skill to be able to tie a risk item (potential failure) to a test, a test set or several test techniques to expose this potential failure for real. Your test (approach) to expose a real failure in the field is very valuable, and makes your test(s) efficient (find the bug quickly) rather than credible.
 
@@ -56,19 +56,19 @@ Before you want to go in the details of Risk Based Test first read the general e
 The purpose of Risk Management is to determine in advance the most important risks related to a product or a project. You look at the probability of a hazard that can occur and what is the impact of it. When you know the risks, you can take precautions. You have taken action to deal with the risks and try to prevent them.
 
 How do you determine/find a risk related to a product/project?
-This is done on the basis of a Risk Assessment. It consists of three steps. These are:
+This is done on the basis of a [Risk Assessment](../skills/RiskAssessment.md). It consists of three steps. These are:
 
-1. Risk Identification
-1. Risk Analyses
-1. Risk Prioritization
+1. [Risk Identification](../skills/RiskIdentification.md)
+1. [Risk Analyses](../skills/RiskAnalyses.md)
+1. [Risk Prioritization](../skills/RiskPrioritization.md)
 
-Risk Identification
+[Risk Identification](../skills/RiskIdentification.md):
 With Risk Identification you are going to look which risk can occur within a product or a project. You constantly ask yourself the question; "What can go wrong?". You will do this investigation with stakeholders, persons who can say some about the product or project. You will find out what is happening.
 
-Risk Analyses
+[Risk Analyses](../skills/RiskAnalyses.md):
 For each identified risk, you will look for the possibility (probability) that it occurs and the impact that it brings along with it. You constantly ask yourself the question; "What are the main risks that we need to address?" The potential risk item is 'converted' into information that can be used to make decisions about these risks
 
-Risk Prioritization
+[Risk Prioritization](../skills/RiskPrioritization.md):
 After extensive analysis, the risks are classified (measurable) and you can give it a priority. On the basis of risk exposure (the relationship between probability and impact), you can determine which risks are important and should be addressed first.
 
 Now you have a list of risks, you should come up with a plan to address them. How will we manage the risks? This is done on the basis of Risk Control, which consists of three steps. These are:
@@ -77,7 +77,7 @@ Now you have a list of risks, you should come up with a plan to address them. Ho
 1. Risk Resolution
 1. Risk Monitoring
 
-Risk Planning
+Risk Planning:
 When you have identified the main risks and the corresponding relative priority, a plan must be created how to deal with each risk. The following actions can be taken:
  
 * Risk Avoidance
@@ -85,10 +85,10 @@ When you have identified the main risks and the corresponding relative priority,
 * Risk Acceptance
 * Risk Transfer
 
-Risk Resolution
+Risk Resolution:
 Execution of the plans that are required to manage the risks.
 
-Risk Monitoring
+Risk Monitoring:
 Ensure that the risk-reducing activities proceed according to plan. Where necessary, corrective actions are taken.
 
 
