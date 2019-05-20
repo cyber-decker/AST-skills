@@ -62,13 +62,13 @@ This is done on the basis of a [Risk Assessment](../skills/RiskAssessment.md). I
 1. [Risk Analyses](../skills/RiskAnalyses.md)
 1. [Risk Prioritization](../skills/RiskPrioritization.md)
 
-[Risk Identification](../skills/RiskIdentification.md):
+[Risk Identification](../skills/RiskIdentification.md):\
 With Risk Identification you are going to look which risk can occur within a product or a project. You constantly ask yourself the question; "What can go wrong?". You will do this investigation with stakeholders, persons who can say some about the product or project. You will find out what is happening.
 
-[Risk Analyses](../skills/RiskAnalyses.md):
+[Risk Analyses](../skills/RiskAnalyses.md):\
 For each identified risk, you will look for the possibility (probability) that it occurs and the impact that it brings along with it. You constantly ask yourself the question; "What are the main risks that we need to address?" The potential risk item is 'converted' into information that can be used to make decisions about these risks
 
-[Risk Prioritization](../skills/RiskPrioritization.md):
+[Risk Prioritization](../skills/RiskPrioritization.md):\
 After extensive analysis, the risks are classified (measurable) and you can give it a priority. On the basis of risk exposure (the relationship between probability and impact), you can determine which risks are important and should be addressed first.
 
 Now you have a list of risks, you should come up with a plan to address them. How will we manage the risks? This is done on the basis of Risk Control, which consists of three steps. These are:
@@ -77,7 +77,7 @@ Now you have a list of risks, you should come up with a plan to address them. Ho
 1. Risk Resolution
 1. Risk Monitoring
 
-Risk Planning:
+Risk Planning:\
 When you have identified the main risks and the corresponding relative priority, a plan must be created how to deal with each risk. The following actions can be taken:
  
 * Risk Avoidance
@@ -85,10 +85,10 @@ When you have identified the main risks and the corresponding relative priority,
 * Risk Acceptance
 * Risk Transfer
 
-Risk Resolution:
+Risk Resolution:\
 Execution of the plans that are required to manage the risks.
 
-Risk Monitoring:
+Risk Monitoring:\
 Ensure that the risk-reducing activities proceed according to plan. Where necessary, corrective actions are taken.
 
 
