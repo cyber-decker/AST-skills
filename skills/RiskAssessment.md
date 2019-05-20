@@ -1,9 +1,9 @@
 # Risk Assessment
 
 The three levels of Risk Assessment
-* Risk Identification
-* Risk Analyses
-* Risk Prioritization
+* [Risk Identification](../skills/RiskIdentification.md)
+* [Risk Analyses](../skills/RiskAnalyses.md)
+* [Risk Prioritization](../skills/RiskPrioritization.md)
 
 ### Our Working Definition:
 
@@ -11,7 +11,7 @@ Risk Assessment : The process of identifying analyzing and prioritizing program 
 
 ### A context where I used this skill:
 
-When you start with testing a product, you have to come up with a test approach. Within your test approach, investigation of the risks regarding the product must be involved, i.e. risk assessment. You have to use this information to determine the important areas which you need to cover with extra tests or different test techniques. It also gives you information not to test at all. In some situations I had to notify upper management that we need to have more time to test the most important areas.
+When you start with testing a product, you have to come up with a test approach. Within your test approach, investigation of the risks regarding the product must be involved, i.e. Risk Assessment. You have to use this information to determine the important areas which you need to cover with extra tests or different test techniques. It also gives you information not to test at all. In some situations I had to notify upper management that we need to have more time to test the most important areas.
 
 ### How I'd recommend someone learn this skill:
 
